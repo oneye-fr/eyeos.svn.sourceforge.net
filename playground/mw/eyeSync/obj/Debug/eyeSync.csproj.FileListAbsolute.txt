@@ -1,0 +1,34 @@
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\bin\Debug\eyeSync.exe
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\bin\Debug\eyeSync.pdb
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\bin\Debug\de-DE\eyeSync.resources.dll
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\ResolveAssemblyReference.cache
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.frm_main.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.langs.eyeSync.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.Properties.Resources.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.langs.eyeSync.de-DE.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\de-DE\eyeSync.resources.dll
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.exe
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.pdb
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.miniNotice.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.frm_newsync.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.frm_server.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.frm_userpw.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\eyeSync\obj\Debug\eyeSync.frm_about.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.exe
+D:\playground\eyeSync\obj\Debug\eyeSync.pdb
+D:\playground\eyeSync\obj\Debug\ResolveAssemblyReference.cache
+D:\playground\eyeSync\obj\Debug\eyeSync.frm_main.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.frm_newsync.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.frm_server.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.miniNotice.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.frm_userpw.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.frm_about.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.langs.eyeSync.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.Properties.Resources.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.langs.eyeSync.de-DE.resources
+D:\playground\eyeSync\obj\Debug\eyeSync.csproj.GenerateResource.Cache
+D:\playground\eyeSync\bin\Debug\eyeSync.exe
+D:\playground\eyeSync\bin\Debug\eyeSync.pdb
+D:\playground\eyeSync\bin\Debug\de-DE\eyeSync.resources.dll
+D:\playground\eyeSync\obj\Debug\de-DE\eyeSync.resources.dll
